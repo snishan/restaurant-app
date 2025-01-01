@@ -12,7 +12,7 @@ interface Order {
   customerName: string;
   items: OrderItem[];
   total: number;
-  status: 'pending' | 'preparing' | 'completed' | 'cancelled';
+  status: string;
   timestamp: string;
 }
 
