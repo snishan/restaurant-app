@@ -7,7 +7,7 @@ A modern, responsive restaurant management application built with Next.js 14, Re
 
 ## 🌟 Features
 
-- **Menu Management**: Veiw menu items
+- **Menu Management**: View menu items
 - **Order Processing**: Track customer orders in real-time
 - **Reservation System**: Handle table reservations seamlessly
 - **Analytics Dashboard**: View sales and performance metrics
